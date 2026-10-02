@@ -33526,10 +33526,3 @@ out/
 # Temporary design files
 *.psd
 *.ai
-*.sketch
-*.fig
-*.xd
-
-# But keep final exports
-!*.svg
-!*.png
