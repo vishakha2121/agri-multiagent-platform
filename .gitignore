@@ -28075,7 +28075,7 @@ __pycache__/
 build/
 develop-eggs/
 dist/
-downloads/
+ownloads/
 eggs/
 .eggs/
 lib/
